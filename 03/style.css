@@ -1,0 +1,14 @@
+.blackie{
+    background-color:rgb(0,0,0);
+    color: hsl(0, 0%, 100%);
+}
+
+.fever{
+    background-color: #ffff00;
+
+}
+
+.blackie,.fever{
+    font-size: 28px;
+    font-family: Helvetica,"Times New Roman",sans-serif;
+}
